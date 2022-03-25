@@ -6,6 +6,7 @@
 [![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-eb-cicd-laravel7/issues/new)
 
 ![detail](screenshots/detail.png)
+[cicd](https://docs.google.com/spreadsheets/d/1m8LuBQUzqIQ0bJYb3NJZOT4iSb78xUEG/edit#gid=1878281573&range=B10)
 
 ## reference
 [youtube](https://www.youtube.com/watch?v=FdjOAJ6jrzE)
